@@ -1,5 +1,6 @@
 # type_fast
 App that counts the number of words typed in given time.Create using Reactjs and build using vite.
 
-![Scoreboard](https://user-images.githubusercontent.com/37264147/195988546-6b1808b9-a2fd-4a2f-8253-c21fbb098da9.gif)
+![Type fast](https://user-images.githubusercontent.com/37264147/195989918-b1408706-a7d7-4b84-9a30-5a35aba81e4f.gif)
+
 
